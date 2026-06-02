@@ -10,6 +10,24 @@
 
 ---
 
+# 📸 Capturas de Pantalla
+
+<div align="center">
+
+## 🔒 AppLocker Pro
+
+<img src="https://i.servimg.com/u/f34/20/32/08/60/appl12.png" alt="AppLocker Pro" width="800">
+
+<br><br><br>
+
+## 🌐 NetBlocker
+
+<img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" alt="NetBlocker" width="500">
+
+</div>
+
+---
+
 # 💎 Comparativa de Licencias y Descarga
 
 | Funciones                                 |                                                                                  Gratis (Trial)                                                                                  |                                                                                              Suscripción Anual                                                                                             |                                                                          Licencia Vitalicia                                                                          |
@@ -31,24 +49,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/downloads/soporteantimalware/applockersuite/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
 </p>
-
----
-
-# 📸 Capturas de Pantalla
-
-<div align="center">
-
-## 🔒 AppLocker Pro
-
-<img src="https://i.servimg.com/u/f34/20/32/08/60/appl12.png" alt="AppLocker Pro" width="800">
-
-<br><br><br>
-
-## 🌐 NetBlocker
-
-<img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" alt="NetBlocker" width="500">
-
-</div>
 
 ---
 
