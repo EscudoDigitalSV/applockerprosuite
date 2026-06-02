@@ -2,7 +2,7 @@
 
 > ## 🛡️ Protección Total para Windows 10 & 11
 >
-> **AppLocker Pro Suite** combina el poder de **AppLocker Pro** y **NetBlocker** en una única solución diseñada para proteger aplicaciones, controlar el acceso a Internet y restringir contenido no deseado.
+> **AppLocker Pro Suite** combina el poder de **AppLocker** y **NetBlocker** en una única solución diseñada para proteger aplicaciones, controlar el acceso a Internet y restringir contenido no deseado.
 >
 > Ideal para hogares, empresas, instituciones educativas y usuarios que buscan una protección avanzada sin configuraciones complicadas.
 >
