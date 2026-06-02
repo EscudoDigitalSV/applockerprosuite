@@ -1,8 +1,8 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Suite
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro Suite
 
 > ## 🛡️ Protección Total para Windows 10 & 11
 >
-> **AppLocker Prccco Suite** combina el poder de **AppLocker Pro** y **NetBlocker** en una única solución diseñada para proteger aplicaciones, controlar el acceso a Internet y restringir contenido no deseado.
+> **AppLocker Pro Suite** combina el poder de **AppLocker Pro** y **NetBlocker** en una única solución diseñada para proteger aplicaciones, controlar el acceso a Internet y restringir contenido no deseado.
 >
 > Ideal para hogares, empresas, instituciones educativas y usuarios que buscan una protección avanzada sin configuraciones complicadas.
 >
