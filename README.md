@@ -189,7 +189,7 @@
 
 <div align="center">
 
-## ❤️ AppLocker Suite © 2026
+## ❤️ AppLocker Pro Suite © 2026
 
 ### Protección de aplicaciones + Control de Internet
 
