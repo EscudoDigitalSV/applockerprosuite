@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/soporteantimalware/applockersuite/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
+  <img src="https://img.shields.io/github/downloads/soporteantimalware/applockerprosuite/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
 </p>
 
 ---
