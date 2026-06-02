@@ -2,24 +2,11 @@
 
 > ## 🛡️ Protección Total para Windows 10 & 11
 >
-> **AppLocker Suite** es una solución integral de seguridad y control que combina el poder de **AppLocker Pro** y **NetBlocker** en un único ecosistema.
+> **AppLocker Suite** combina la potencia de **AppLocker Pro** y **NetBlocker** en una única solución de seguridad diseñada para proteger aplicaciones, controlar el acceso a Internet y restringir contenido no deseado.
 >
-> Protege aplicaciones, restringe accesos no autorizados, bloquea sitios web, controla conexiones de red y administra el uso del equipo de forma sencilla y eficiente.
+> Ideal para hogares, empresas, instituciones educativas y usuarios que buscan una protección avanzada sin configuraciones complicadas.
 >
-> Ideal para hogares, empresas, instituciones educativas y usuarios que necesitan un mayor nivel de control sobre sus sistemas Windows.
-
----
-
-<div align="center">
-
-# 🔥 Incluye 2 Potentes Herramientas
-
-| Aplicación           | Descripción                                                                      |
-| -------------------- | -------------------------------------------------------------------------------- |
-| 🔒 **AppLocker Pro** | Bloquea aplicaciones mediante contraseña y protección inteligente.               |
-| 🌐 **NetBlocker**    | Bloquea sitios web y restringe el acceso a Internet de aplicaciones específicas. |
-
-</div>
+> Controla qué aplicaciones pueden abrirse y qué sitios web o conexiones de red pueden utilizarse, todo desde herramientas ligeras, rápidas y fáciles de administrar.
 
 ---
 
@@ -27,45 +14,62 @@
 
 <div align="center">
 
-### 🔒 AppLocker Pro
+## 🔒 AppLocker Pro
 
-<img src="https://i.servimg.com/u/f34/20/32/08/60/appl12.png" width="700">
+<img src="https://i.servimg.com/u/f34/20/32/08/60/appl12.png" alt="AppLocker Pro" width="800">
+
+<br>
+
+## 🌐 NetBlocker
+
+<img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" alt="NetBlocker" width="800">
 
 </div>
 
 ---
 
+# 🔥 Incluye 2 Potentes Herramientas
+
+| Aplicación           | Función Principal                                         |
+| -------------------- | --------------------------------------------------------- |
+| 🔒 **AppLocker Pro** | Bloqueo y protección de aplicaciones mediante contraseña. |
+| 🌐 **NetBlocker**    | Bloqueo de sitios web y control de conexiones de red.     |
+
+---
+
 # 🚀 ¿Qué puedes hacer con AppLocker Suite?
 
-### 🔒 Proteger Aplicaciones
+### 🔒 Protección de Aplicaciones
 
 * Bloquear programas mediante contraseña.
-* Evitar accesos no autorizados.
-* Protección en tiempo real.
-* Detección de aperturas externas.
-* Inicio automático con Windows.
+* Impedir accesos no autorizados.
+* Monitoreo en tiempo real.
+* Protección automática al iniciar Windows.
+* Detección inteligente de aperturas externas.
+* Recuperación segura mediante clave de emergencia.
 
-### 🌐 Controlar Internet y Sitios Web
+### 🌐 Control de Internet
 
-* Bloquear páginas web específicas.
-* Restringir categorías de sitios.
+* Bloquear sitios web específicos.
+* Restringir dominios personalizados.
 * Bloquear acceso a redes sociales.
-* Impedir conexiones de aplicaciones seleccionadas.
-* Controlar el tráfico de red por aplicación.
+* Impedir la conexión a Internet de aplicaciones seleccionadas.
+* Crear reglas de acceso personalizadas.
+* Administrar restricciones fácilmente.
 
 ### 👨‍👩‍👧 Control Parental
 
 * Limitar acceso a juegos.
-* Restringir páginas inapropiadas.
+* Bloquear páginas inapropiadas.
+* Restringir aplicaciones de ocio.
 * Proteger configuraciones del sistema.
-* Supervisar el uso de aplicaciones.
 
 ### 🏢 Seguridad Empresarial
 
 * Proteger software corporativo.
 * Restringir herramientas administrativas.
-* Evitar fugas de información.
-* Aplicar políticas de acceso interno.
+* Controlar acceso a aplicaciones críticas.
+* Evitar uso no autorizado de recursos empresariales.
 
 ---
 
@@ -76,11 +80,11 @@
 | Bloqueo de aplicaciones                   | ✅          |
 | Protección por contraseña                 | ✅          |
 | Requerir contraseña al abrir externamente | ✅          |
-| Pausar/Reanudar protección                | ✅          |
+| Monitoreo en tiempo real                  | ✅          |
 | Inicio con Windows                        | ✅          |
+| Pausar/Reanudar protección                | ✅          |
 | Modo silencioso                           | ✅          |
 | Clave de recuperación                     | ✅          |
-| Monitoreo en tiempo real                  | ✅          |
 
 ---
 
@@ -89,25 +93,35 @@
 | Función                            | Disponible |
 | ---------------------------------- | ---------- |
 | Bloqueo de sitios web              | ✅          |
-| Bloqueo de dominios personalizados | ✅          |
-| Bloqueo de conexión por aplicación | ✅          |
-| Control de acceso a Internet       | ✅          |
-| Gestión sencilla de reglas         | ✅          |
-| Protección mediante contraseña     | ✅          |
-| Inicio automático con Windows      | ✅          |
+| Bloqueo por dominio                | ✅          |
+| Bloqueo de Internet por aplicación | ✅          |
+| Gestión de reglas personalizadas   | ✅          |
+| Protección por contraseña          | ✅          |
+| Inicio automático                  | ✅          |
+| Interfaz sencilla                  | ✅          |
 
 ---
 
 # 💎 Beneficios de la Suite
 
-| Ventaja                        | Beneficio                      |
-| ------------------------------ | ------------------------------ |
-| 🔒 Seguridad de aplicaciones   | Evita accesos no autorizados   |
-| 🌐 Control de Internet         | Limita conexiones y navegación |
-| ⚡ Bajo consumo de recursos     | Funciona en segundo plano      |
-| 🛡️ Protección multicapa       | Aplicaciones + Red             |
-| 🚀 Fácil configuración         | Interfaz intuitiva             |
-| 💼 Uso profesional y doméstico | Adaptable a cualquier entorno  |
+| Beneficio                        | Descripción                                      |
+| -------------------------------- | ------------------------------------------------ |
+| 🛡️ Protección multicapa         | Seguridad para aplicaciones y conexiones de red. |
+| ⚡ Ligero y eficiente             | Bajo consumo de recursos del sistema.            |
+| 🔐 Mayor privacidad              | Evita accesos no autorizados.                    |
+| 🌐 Control de navegación         | Bloquea páginas y servicios específicos.         |
+| 🚀 Fácil de usar                 | Configuración rápida e intuitiva.                |
+| 🏠🏢 Uso doméstico y empresarial | Adaptable a cualquier entorno.                   |
+
+---
+
+# 📦 Descargas
+
+| Producto            | Descargar                                                                |
+| ------------------- | ------------------------------------------------------------------------ |
+| 🔒 AppLocker Pro    | [Descargar](https://github.com/soporteantimalware/applockerpro/releases) |
+| 🌐 NetBlocker       | [Descargar](https://github.com/soporteantimalware/netblocker/releases)   |
+| 🛡️ AppLocker Suite | Próximamente                                                             |
 
 ---
 
@@ -126,11 +140,11 @@
 # ⚠️ Nota de Seguridad
 
 > [!CAUTION]
-> AppLocker Suite interactúa con procesos del sistema y configuraciones de red para proporcionar sus funciones de protección.
+> AppLocker Pro y NetBlocker interactúan con procesos del sistema y configuraciones de red para proporcionar sus funciones de protección.
 >
-> Algunos antivirus pueden generar alertas preventivas debido al comportamiento de monitoreo y control utilizado por las aplicaciones.
+> Debido a este comportamiento técnico, algunos antivirus pueden mostrar alertas preventivas o falsos positivos.
 >
-> Tanto AppLocker Pro como NetBlocker son herramientas legítimas de seguridad y no contienen malware.
+> Ambas aplicaciones son completamente legítimas, seguras y libres de malware.
 
 ---
 
@@ -138,8 +152,10 @@
 
 # ❤️ AppLocker Suite © 2026
 
-### Aplicaciones protegidas. Internet bajo control.
+### Protección de aplicaciones + Control de Internet
 
 **🔒 AppLocker Pro + 🌐 NetBlocker**
+
+Seguridad completa para Windows.
 
 </div>
