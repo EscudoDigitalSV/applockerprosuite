@@ -12,19 +12,25 @@
 
 # 📸 Capturas de Pantalla
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-## 🔒 AppLocker Pro
+### 🔒 AppLocker Pro
 
-<img src="https://i.servimg.com/u/f34/20/32/08/60/appl12.png" alt="AppLocker Pro" width="800">
+<img src="https://i.servimg.com/u/f34/20/32/08/60/appl12.png" width="450">
 
-<br>
+</td>
 
-## 🌐 NetBlocker
+<td align="center" width="50%">
 
-<img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" alt="NetBlocker" width="800">
+### 🌐 NetBlocker
 
-</div>
+<img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" width="450">
+
+</td>
+</tr>
+</table>
 
 ---
 
