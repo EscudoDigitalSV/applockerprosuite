@@ -18,7 +18,7 @@
 
 <img src="https://i.servimg.com/u/f34/20/32/08/60/appl12.png" alt="AppLocker Pro" width="800">
 
-<br><br><br>
+<br>
 
 ## 🌐 NetBlocker
 
