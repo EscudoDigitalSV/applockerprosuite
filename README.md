@@ -1,4 +1,4 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro Suite
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro Suite 1.0.0
 
 > ## 🛡️ Protección Total para Windows 10 & 11
 >
