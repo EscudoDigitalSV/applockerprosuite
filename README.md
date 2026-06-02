@@ -2,7 +2,7 @@
 
 > ## 🛡️ Protección Total para Windows 10 & 11
 >
-> **AppLocker Suite** combina el poder de **AppLocker Pro** y **NetBlocker** en una única solución diseñada para proteger aplicaciones, controlar el acceso a Internet y restringir contenido no deseado.
+> **AppLocker Pro Suite** combina el poder de **AppLocker Pro** y **NetBlocker** en una única solución diseñada para proteger aplicaciones, controlar el acceso a Internet y restringir contenido no deseado.
 >
 > Ideal para hogares, empresas, instituciones educativas y usuarios que buscan una protección avanzada sin configuraciones complicadas.
 >
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## 🔒 AppLocker Pro
+## 🔒 AppLocker
 
 <img src="https://i.servimg.com/u/f34/20/32/08/60/appl12.png" alt="AppLocker Pro" width="800">
 
@@ -32,7 +32,7 @@
 
 | Funciones                                 |                                                                                  Gratis (Trial)                                                                                  |                                                                                              Suscripción Anual                                                                                             |                                                                          Licencia Vitalicia                                                                          |
 | :---------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🔒 AppLocker Pro                          |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
+| 🔒 AppLocker                          |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
 | 🌐 NetBlocker                             |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
 | Bloqueo de aplicaciones                   |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
 | Bloqueo de sitios web                     |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
@@ -69,7 +69,7 @@
 
 | Aplicación           | Función Principal                                                 |
 | -------------------- | ----------------------------------------------------------------- |
-| 🔒 **AppLocker Pro** | Protege aplicaciones mediante contraseña y bloqueo inteligente.   |
+| 🔒 **AppLocker** | Protege aplicaciones mediante contraseña y bloqueo inteligente.   |
 | 🌐 **NetBlocker**    | Bloquea sitios web y restringe conexiones de red de aplicaciones. |
 
 ---
