@@ -48,6 +48,7 @@
 ---
 
 <p align="center">
+  <a href="https://github.com/soporteantimalware/applockerprosuite/releases">
   <img src="https://img.shields.io/github/downloads/soporteantimalware/applockerprosuite/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
 </p>
 
