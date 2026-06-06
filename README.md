@@ -18,13 +18,13 @@
 
 ## 🔒 AppLocker
 
-<img src="https://i.servimg.com/u/f34/20/32/08/60/ima10.png" alt="AppLocker Pro" width="800">
+<img src="https://i.servimg.com/u/f34/20/32/08/60/ima10.png" alt="AppLocker Pro" width="600">
 
 <br>
 
 ## 🌐 NetBlocker
 
-<img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" alt="NetBlocker" width="500">
+<img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" alt="NetBlocker" width="400">
 
 </div>
 
