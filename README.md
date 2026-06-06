@@ -169,11 +169,44 @@
 # ⚠️ Nota de Seguridad
 
 > [!CAUTION]
-> AppLocker Suite interactúa con procesos del sistema y configuraciones de red para proporcionar sus funciones de protección.
+> AppLocker Pro Suite interactúa con procesos del sistema y configuraciones de red para proporcionar sus funciones de protección y control.
 >
-> Debido a este comportamiento técnico, algunos antivirus pueden mostrar alertas preventivas o falsos positivos.
+> Debido a este comportamiento técnico, algunos antivirus o soluciones de seguridad pueden mostrar alertas preventivas o falsos positivos.
 >
 > Tanto AppLocker Pro como NetBlocker son herramientas legítimas, seguras y libres de malware.
+
+> [!NOTE]
+> AppLocker Pro Suite es un proyecto independiente en constante evolución.
+>
+> Actualmente, el instalador aún no cuenta con una firma digital de código (Code Signing Certificate), por lo que Windows SmartScreen puede mostrar advertencias preventivas al ejecutar el archivo descargado.
+>
+> Estas advertencias forman parte de las medidas de seguridad estándar de Windows y no indican la presencia de software malicioso.
+>
+> La incorporación de firma digital se encuentra prevista para futuras versiones del proyecto.
+
+---
+
+# 📥 Instalación y Advertencia de Windows SmartScreen
+
+> [!IMPORTANT]
+> Al descargar AppLocker Pro Suite, Windows puede mostrar la advertencia **"Windows protegió tu PC"**.
+>
+> Este comportamiento es normal cuando una aplicación descargada desde Internet aún no dispone de una firma digital reconocida por Microsoft.
+
+<div align="center">
+
+<img src="URL_DE_TU_GIF_AQUI" alt="Cómo ejecutar AppLocker Pro Suite" width="800">
+
+</div>
+
+### Pasos para continuar
+
+1. Haz clic en **Más información**.
+2. Haz clic en **Ejecutar de todas formas**.
+3. Continúa con la instalación normalmente.
+
+> [!TIP]
+> Este procedimiento generalmente solo es necesario la primera vez que se ejecuta el instalador.
 
 ---
 
