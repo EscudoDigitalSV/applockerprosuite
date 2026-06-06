@@ -193,17 +193,17 @@
 >
 > Este comportamiento es normal cuando una aplicación descargada desde Internet aún no dispone de una firma digital reconocida por Microsoft.
 
-<div align="center">
-
-<img src="URL_DE_TU_GIF_AQUI" alt="Cómo ejecutar AppLocker Pro Suite" width="800">
-
-</div>
-
 ### Pasos para continuar
 
 1. Haz clic en **Más información**.
 2. Haz clic en **Ejecutar de todas formas**.
 3. Continúa con la instalación normalmente.
+
+<div align="center">
+
+<img src="img/1.gif" alt="Cómo ejecutar AppLocker Pro Suite" width="250">
+
+</div>
 
 > [!TIP]
 > Este procedimiento generalmente solo es necesario la primera vez que se ejecuta el instalador.
