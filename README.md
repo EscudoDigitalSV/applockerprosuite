@@ -218,7 +218,7 @@
 | Arquitectura      | x64             |
 | RAM               | 2 GB            |
 | Espacio en Disco  | 200 MB          |
-| Internet          | Opcional        |
+| Internet          | Requerido (solo para netblocker)        |
 
 ---
 
