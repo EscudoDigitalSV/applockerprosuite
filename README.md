@@ -48,8 +48,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/soporteantimalware/applockerprosuite/releases">
-  <img src="https://img.shields.io/github/downloads/soporteantimalware/applockerprosuite/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
+  <a href="https://github.com/escudodigitalsv/applockerprosuite/releases">
+  <img src="https://img.shields.io/github/downloads/escudodigitalsv/applockerprosuite/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
 </p>
 
 ---
@@ -201,7 +201,7 @@
 
 <div align="center">
 
-<img src="https://github.com/soporteantimalware/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro Suite" width="250">
+<img src="https://github.com/escudodigitalsv/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro Suite" width="250">
 
 </div>
 
@@ -235,13 +235,13 @@
 ### 📥 Accesos Directos
 
 * 🔒 **AppLocker Pro**
-  https://github.com/soporteantimalware/applockerpro
+  https://github.com/escudodigitalsv/applockerpro
 
 * 🌐 **NetBlocker Premium**
-  https://github.com/soporteantimalware/netblockerpremium
+  https://github.com/escudodigitalsv/netblockerpremium
 
 * 🌍 **AppLocker Pro Nexus**
-  https://github.com/soporteantimalware/applockerpronexus
+  https://github.com/escudodigitalsv/applockerpronexus
 
 ---
 
