@@ -30,20 +30,28 @@
 
 ---
 
-# 💎 Comparativa de Licencias y Descarga
+<tr>
+<td><b>Acción</b></td>
 
-| Funciones                                 |                                                                                  Gratis (Trial)                                                                                  |                                                                                              Suscripción Anual                                                                                             |                                                                          Licencia Vitalicia                                                                          |
-| :---------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🔒 AppLocker                          |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| 🌐 NetBlocker                             |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Bloqueo de aplicaciones                   |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Bloqueo de sitios web                     |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Bloqueo de Internet por aplicación        |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Protección por contraseña                 |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Requerir contraseña al abrir externamente |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Inicio con Windows                        |                                                                                         ✅                                                                                        |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| **Duración**                              |                                                                                    **15 DÍAS**                                                                                   |                                                                                                  **1 AÑO**                                                                                                 |                                                                           **PARA SIEMPRE**                                                                           |
-| **Acción**                                | [![Probar](https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge\&logo=windows11\&logoColor=white)](https://github.com/escudodigitalsv/applockerprosuite/releases) | [![PayPal](https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-69C59597TX2202635NIQFBMQ) | [![PayPal](https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/ncp/payment/GSP69U8J42Z7Q) |
+<td align="center">
+
+<a href="https://github.com/escudodigitalsv/applockerprosuite/releases">
+<img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
+</a>
+
+</td>
+
+<td colspan="2" align="center">
+
+<a href="https://www.escudodigitalsv.com" target="_blank" rel="noopener noreferrer">
+
+<img src="https://img.shields.io/badge/🛒_COMPRAR_LICENCIA-escudodigitalsv.com-blue?style=for-the-badge">
+
+</a>
+
+</td>
+
+</tr>
 
 ---
 
