@@ -152,7 +152,7 @@
 
 <td align="center">
 
-<a href="https://github.com/escudodigitalsv/applockerprosuite/releases">
+<a href="https://github.com/EscudoDigitalSV/applockerprosuite/releases/download/1.0.0/AppLockerProSuite.exe">
 
 <img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
 
